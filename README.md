@@ -3,4 +3,4 @@
 
 
 ### Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M0hanad1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M0hanad1&count_private=false)
