@@ -4,4 +4,4 @@
 
 
 ### Languages:
-[![Top Langs](https://github-readme-m0hanad1.vercel.app/api/top-langs/?username=M0hanad1)](https://github-readme-m0hanad1.vercel.app/api/top-langs/?username=M0hanad1&count_privates=true&theme=tokyonight)
+![Top Langs](https://github-readme-m0hanad1.vercel.app/api/top-langs/?username=M0hanad1&count_privates=true&theme=tokyonight)
