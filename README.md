@@ -4,4 +4,4 @@
 
 
 ### Languages:
-![Top Langs](https://github-readme-stats-mohanads-projects-a4054ad3.vercel.app/api/top-langs/?username=M0hanad1&theme=tokyonight&langs_count=8)
+![Top Langs](https://github-readme-stats-mohanads-projects-a4054ad3.vercel.app/api/top-langs/?username=M0hanad1&theme=tokyonight&langs_count=8&include_all_commits=true)
