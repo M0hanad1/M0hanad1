@@ -4,4 +4,4 @@
 
 
 ### Languages:
-![Top Langs](https://github-readme-stats-bay-eight-73.vercel.app/api/top-langs/?username=m0hanad1&theme=tokyonight&hide=html,css&langs_count=4)
+![Top Langs](https://github-readme-stats-bay-eight-73.vercel.app/api/top-langs/?username=m0hanad1&theme=tokyonight&hide=html,css)
